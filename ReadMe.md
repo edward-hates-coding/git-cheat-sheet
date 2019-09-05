@@ -30,3 +30,6 @@ git config --global user.name "USER NAME"
 
 ## Configure the Current Global User Email
 git config --global user.email USER@EMAIL
+
+## Get Status of the Project
+git status 
